@@ -7,7 +7,7 @@ An Excel analysis of 1,169 IPL matches from 2008 to 2025 — winners, toss decis
 ## What this analysis answers
 
 - Who wins the IPL most often, and who wins the toss most often?
-- Does winning the toss and choosing to bat or field actually help?
+- Does winning the toss and choosing to bat or field actually help? Yes — see the findings below.
 - Which players win Man of the Match most often?
 - Which venues host the most matches?
 
@@ -15,7 +15,7 @@ An Excel analysis of 1,169 IPL matches from 2008 to 2025 — winners, toss decis
 
 - **1,169 matches** analysed, seasons 2008–2025, across 18 seasons
 - **Most titles: Chennai Super Kings and Mumbai Indians, 5 each**, followed by Kolkata Knight Riders with 3
-- **Toss decision matters:** teams that won the toss chose to field in **764 matches (65.4%)** and to bat in **405 matches (34.6%)**
+- **Toss decision matters:** teams that won the toss chose to field in **764 matches (65.4%)** and to bat in **405 matches (34.6%)** — and fielding first paid off more often: toss winners who chose to field won **53.4%** of those matches, against **45.2%** for toss winners who chose to bat
 - **Man of the Match leaders:** AB de Villiers (25), Chris Gayle (22), Rohit Sharma (21), Virat Kohli (19)
 - Match-level data covers team, season, date, toss winner, and toss decision for every match
 
